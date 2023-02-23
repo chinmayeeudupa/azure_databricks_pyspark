@@ -1,8 +1,9 @@
 # Databricks notebook source
+# mask the ids while pushing to repo
 storage_account_name = "myformula1dlake"
-client_id            = "024fe45d-0d1d-4890-910c-b6670e5f554d"
-tenant_id            = "3279bce2-75b5-4b94-8fe1-f62d7ea817fe"
-client_secret        = "yXU8Q~tcIEW76.zXEG-JshoEWxT~J8MMwwodra3o"
+client_id            = "####################################"
+tenant_id            = "####################################"
+client_secret        = "####################################"
 
 # COMMAND ----------
 
